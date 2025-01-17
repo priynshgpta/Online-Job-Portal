@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #cdd6eb;
+}
+div.bmsTop{
+    list-style-type: none;
+    display: block;
+    background:transparent;
+}
+div.bmsTop ul li{
+    display: inline;
+    overflow: hidden;
+}
+#homesearch{
+    align-items: center;
+}
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #f4511e;
+}
+.well{
+    
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+}
